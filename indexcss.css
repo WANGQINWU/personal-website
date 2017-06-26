@@ -74,12 +74,12 @@ article#sub{
 
 
 
-
 a:link {
  text-decoration: none;
 }
 a:visited {
  color: #FFFFFF;
+ text-decoration: none;
 
 }
 a:hover {
