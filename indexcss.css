@@ -72,7 +72,11 @@ article#sub{
 	font-weight: normal;
 }
 
-
+a{
+	font-weight: lighter;
+	color: #FFFFFF;
+	text-decoration-style: none;
+}
 
 a:link {
  text-decoration: none;
